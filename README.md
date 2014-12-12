@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/roryg11/rails-practice-add-rspec.svg)](https://travis-ci.org/roryg11/rails-practice-add-rspec)
+
 # Setup
 
 * Clone this repo into workspace
